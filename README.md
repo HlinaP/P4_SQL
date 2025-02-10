@@ -1,4 +1,4 @@
-# ÚVOD 
+## ÚVOD 
 Cílem tohoto projektu je zajistit přesné, přehledné a relevantní datové podklady, které umožní srovnání dostupnosti potravin ve vztahu k průměrným příjmům za určité časové období.
 Pro analýzu budou vytvořeny dvě tabulky, které budou obsahovat klíčová data:
 1.	Tabulka primární analýzy – zahrnující údaje o průměrných cenách základních potravin a průměrných příjmech obyvatel
@@ -26,4 +26,9 @@ K analýze těchto dat budou využity SQL dotazy, které umožní efektivní vyh
 
 ### Otázka č. 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
 *Ze sledovaných potravin nejpomaleji zdražuje **cukr krystalový**, který za sledované období vykazuje nejnižší průměrnou roční změnu ceny, a to **-1,92 %**. To naznačuje, že cena cukru v tomto období klesala, což může signalizovat dlouhodobý trend poklesu cen.*
+
+### Otázka č. 4: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+*Výrazně vyšší nárůst cen potravin oproti růst mezd ve sledovaném období neexistuje. Nejvyšší nárůst cen potravin oproti mzdám byl v roce **2013**, kdy byl rozdíl **5,23 %**, který byl způsoben převážně meziročním poklesem mezd **(-0,13 %)**.* 
+
+### Otázka č. 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
