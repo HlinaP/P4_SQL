@@ -35,7 +35,7 @@ K analýze těchto dat budou využity SQL dotazy, které umožní efektivní vyh
 
 ## VYTVOŘENÉ TABULKY
 ### Primární tabulka
-Název: t_petr_hlisnikovsky_project_sql_primary_final
+Název: [t_petr_hlisnikovsky_project_sql_primary_final](https://github.com/HlinaP/P4_SQL/blob/main/t_petr_hlisnikovsky_project_sql_primary_final.sql)
 
 | Sloupec             | Popis                                  |
 |---------------------|----------------------------------------|
