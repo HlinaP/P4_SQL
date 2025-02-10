@@ -7,8 +7,10 @@ WITH mezirocni_zmena AS (
             (prumerna_cena - LAG(prumerna_cena) OVER (PARTITION BY nazev_potraviny ORDER BY rok_potraviny)) / 
             LAG(prumerna_cena) OVER (PARTITION BY nazev_potraviny ORDER BY rok_potraviny) * 100, 2
         ) AS mezirocni_zmena
-    FROM t_petr_hlisnikovsky_project_sql_primary_final
-    WHERE typ_dat = 'potraviny'
+    FROM 
+        t_petr_hlisnikovsky_project_sql_primary_final
+    WHERE 
+        typ_dat = 'potraviny'
 )
 SELECT
     nazev_potraviny,
