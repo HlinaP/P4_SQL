@@ -14,7 +14,6 @@ ORDER BY
 	odvetvi, 
 	rok;
 
-
 -- Roky kdy došlo k meziročnímu poklesu mezd v jednotlivých průmyslových odvětích 
 
 WITH mzdy AS (
