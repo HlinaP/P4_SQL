@@ -52,10 +52,27 @@ Název: [t_petr_hlisnikovsky_project_sql_primary_final](https://github.com/Hlina
 | Rok_potraviny       | Rok ceny potraviny                     |
 
 ### Sekundární tabulka
-Název: t_petr_hlisnikovsky_project_sql_secondary_final
+Název: [t_petr_hlisnikovsky_project_sql_secondary_final](https://github.com/HlinaP/P4_SQL/blob/main/t_petr_hlisnikovsky_project_sql_secondary_final.sql)
 
 | Sloupec      | Popis                    |
 |--------------|--------------------------|
 | nazev_zeme   | Název země.              |
 | rok          | Rok.                     |
 | hdp          | Hrubý domácí produkt.    |
+
+## SQL DOTAZY
+### [Dotaz 1: Meziroční růst mezd](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%201.sql)
+Dotaz vypočítává meziroční nárůst mezd v jednotlivých průmyslových odvětvích a v celorepublikovém průměru.
+Doplněn o poddotaz, který specifikuje roky, kdy došlo k poklesu mezd v jednotlivých odvětvích.
+
+### [Dotaz 2: Vývoj kupní síly](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%202.sql)
+Dotaz vypočítává kupní sílu vybraných potravin za první a poslední porovnatelné období (2006, 2018).
+
+### [Dotaz 3: Růst cen jednotlivých potravin](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%203.sql)
+Dotaz vypočítává průměrnou meziroční změnu cen potravin pro jednotlivé potraviny. Seřazuje změny od nejmenenší po největší.
+
+### [Dotaz 4: Růst cen potravin a mezd](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%204.sql)
+Dotaz vypočítává meziroční změnu cen potravin a mezd, vzájemně je porovnává a identifikuje významně vyšší nárusty cen potravin oproti mzdám (větší než 10 .
+
+### [Dotaz 5: Vliv HDP na vývoj mezd a cen](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%205.sql)
+Dotaz vypočítává meziroční změnu HDP a dává ji do kontextu změny vývoje mezd a cen potravin. 
