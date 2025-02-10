@@ -1,3 +1,4 @@
+# Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 
 -- Vývoj mezd ve sledovaném časovém období za jednotlivá průmyslová odvětví
 
