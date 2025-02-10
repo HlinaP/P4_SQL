@@ -69,10 +69,10 @@ Doplněn o poddotaz, který specifikuje roky, kdy došlo k poklesu mezd v jednot
 Dotaz vypočítává kupní sílu vybraných potravin za první a poslední porovnatelné období (2006, 2018).
 
 ### [Dotaz 3: Růst cen jednotlivých potravin](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%203.sql)
-Dotaz vypočítává průměrnou meziroční změnu cen potravin pro jednotlivé potraviny. Seřazuje změny od nejmenenší po největší.
+Dotaz vypočítává průměrnou meziroční změnu cen potravin pro jednotlivé potraviny. Seřazuje změny od nejmenší po největší.
 
 ### [Dotaz 4: Růst cen potravin a mezd](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%204.sql)
-Dotaz vypočítává meziroční změnu cen potravin a mezd, vzájemně je porovnává a identifikuje významně vyšší nárusty cen potravin oproti mzdám (větší než 10 .
+Dotaz vypočítává meziroční změnu cen potravin a mezd, vzájemně je porovnává a identifikuje významně vyšší nárusty cen potravin oproti mzdám (větší než 10).
 
 ### [Dotaz 5: Vliv HDP na vývoj mezd a cen](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%205.sql)
 Dotaz vypočítává meziroční změnu HDP a dává ji do kontextu změny vývoje mezd a cen potravin. 
