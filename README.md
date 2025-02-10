@@ -62,7 +62,7 @@ Název: [t_petr_hlisnikovsky_project_sql_secondary_final](https://github.com/Hli
 
 ## SQL DOTAZY
 ### [Dotaz 1: Meziroční růst mezd](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%201.sql)
-Dotaz vypočítává meziroční nárůst mezd v jednotlivých průmyslových odvětvích a v celorepublikovém průměru.
+Dotaz vypočítává meziroční nárůst mezd v jednotlivých průmyslových odvětvích a v celorepublikovém průměru.  
 Doplněn o poddotaz, který specifikuje roky, kdy došlo k poklesu mezd v jednotlivých odvětvích.
 
 ### [Dotaz 2: Vývoj kupní síly](https://github.com/HlinaP/P4_SQL/blob/main/Ot%C3%A1zka%202.sql)
