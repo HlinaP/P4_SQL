@@ -32,3 +32,4 @@ K analýze těchto dat budou využity SQL dotazy, které umožní efektivní vyh
 
 ### Otázka č. 5: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
+*Mezi vývojem HDP, mzdami a cenami potravin existuje určitá souvislost, ale není vždy přímá. **Růst HDP (např. 2007, 2015, 2017)** obvykle znamenal růst mezd i cen potravin, zatímco **pokles HDP (2009, 2012, 2013)** ne vždy vedl k jejich snížení. Například v roce **2009** HDP kleslo **(-4,66 %)**, ale mzdy vzrostly **(3,37 %)**, a zatímco v roce 2009 ceny potravin prudce klesly **(-6,41 %)**, v roce 2012 naopak vzrostly **(6,72 %)**.*
