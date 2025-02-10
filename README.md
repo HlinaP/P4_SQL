@@ -14,4 +14,16 @@ K analýze těchto dat budou využity SQL dotazy, které umožní efektivní vyh
 
 ## ODPOVĚDI NA VÝZKUMNÉ OTÁZKY
 ### Otázka č. 1: Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
-*Navzdory krátkodobým výkyvům můžeme pozorovat rostoucí trend průměrných mezd napříč všemi odvětvími. Největší pokles byl zaznamenán v roce 2013 v odvětví Peněžnictví a pojišťovnictví, kde průměrná mzda meziročně klesla o 4 479 Kč. Přesto však v dlouhodobém horizontu vzrostly průměrné mzdy z 25 049 Kč v roce 2000 na 61 542 Kč v roce 2021. Nejčastěji se meziroční pokles mezd objevil v odvětví těžby a dobývání, kde k němu během sledovaného období došlo čtyřikrát. V dlouhodobém horizontu však i v tomto odvětví mzdy vzrostly z 16 551 Kč na 37 971 Kč.*
+*Navzdory krátkodobým výkyvům můžeme pozorovat rostoucí trend průměrných mezd napříč všemi odvětvími. Největší pokles byl zaznamenán v roce **2013** v odvětví Peněžnictví a pojišťovnictví, kde průměrná mzda meziročně klesla o **4 479 Kč**. Přesto však v dlouhodobém horizontu vzrostly průměrné mzdy z **25 049 Kč** v roce **2000** na **61 542 Kč** v roce **2021**. Nejčastěji se meziroční pokles mezd objevil v odvětví těžby a dobývání, kde k němu během sledovaného období došlo čtyřikrát. V dlouhodobém horizontu však i v tomto odvětví mzdy vzrostly z **16 551 Kč** na **37 971 Kč**.*
+
+### Otázka č. 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+***2006**: Chléb konzumní kmínový: **1211,91 kg**
+**2018**: Chléb konzumní kmínový: **1321,91 kg**
+**2006**: Mléko polotučné pasterované: **1352,91 l**
+**2018**: Mléko polotučné pasterované: **1616,70 l***
+
+*Přestože ceny obou potravin vzrostly mezi roky 2006 a 2018, v přepočtu na průměrnou mzdu je možné si v roce 2018 pořídit větší množství těchto potravin než v roce 2006*
+
+### Otázka č. 3: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+*Ze sledovaných potravin nejpomaleji zdražuje **cukr krystalový**, který za sledované období vykazuje nejnižší průměrnou roční změnu ceny, a to **-1,92 %**. To naznačuje, že cena cukru v tomto období klesala, což může signalizovat dlouhodobý trend poklesu cen.*
+
